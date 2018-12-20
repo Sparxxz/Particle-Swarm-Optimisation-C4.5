@@ -3,7 +3,7 @@
 
 ## Used as Gene Selection Algorithm
 - When we work on Gene Datasets usually they contains very high dimension of features which makes it difficult to process.
-- But usually all the features aren't requrired for optimial results.
+- But usually all the features aren't requrired for optimal results.
 - So Gene Selection Algorithm like  ( PSO+C4.5) is applied to extract the essential features from the pool of all features
 
 ### Introduction
