@@ -1,5 +1,5 @@
-                                                     # Optimisation Technique
-                                               ## Particle Swarm Optimisation + C4.5
+# Optimisation Technique
+   ## Particle Swarm Optimisation + C4.5
 
 ## Used as Gene Selection Algorithm
 - When we work on Gene Datasets usually they contains very high dimension of features which makes it difficult to process.
